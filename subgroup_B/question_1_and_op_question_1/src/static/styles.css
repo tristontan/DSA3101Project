@@ -1,0 +1,33 @@
+/* Style for predicted wait time output based on time range */
+.low-wait-time {
+    background-color: #28a745;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(0, 123, 255, 0.2);
+}
+
+.medium-wait-time {
+    background-color: #ff9800;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(255, 152, 0, 0.2);
+}
+
+.high-wait-time {
+    background-color: #dc3545;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 2px 2px 8px rgba(220, 53, 69, 0.2);
+}
