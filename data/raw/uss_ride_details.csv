@@ -1,0 +1,15 @@
+﻿Ride,Duration (s),Additional Time,Capacity per launch,Launch type,Min Staff,Max Staff
+Accelerator,45,90,48,delayed,3,5
+Battlestar Galactica: CYLON,105,60,16,continuous,2,4
+Battlestar Galactica: HUMAN,105,60,16,continuous,2,4
+Canopy Flyer,90,60,8,continuous,2,4
+Dino-Soarin,90,90,24,delayed,3,4
+Enchanted Airways,90,60,16,continuous,2,4
+Jurassic Park Rapids Adventure,300,40,9,continuous,3,5
+"Lights, Camera, Action! Hosted by Steven Spielberg",240,90,90,delayed,1,4
+Magic Potion Spin,90,90,12,delayed,1,2
+Puss In Boots’ Giant Journey,120,60,9,continuous,2,4
+Revenge of the Mummy,135,60,16,continuous,2,5
+Shrek 4-D Adventure,720,90,375,delayed,2,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,300,60,12,continuous,2,5
+Treasure Hunters,120,60,4,continuous,2,4
