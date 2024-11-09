@@ -1,4 +1,4 @@
-# Linear Programming Optimization Model API
+# Linear Programming Optimization Model
 
 This project provides a Dockerized Flask API for a linear programming optimization model implemented in Python. The API is designed to handle requests and return optimized staff allocations and wait times based on specified input dates.
 
