@@ -1,0 +1,9 @@
+FROM python:3.13-slim
+
+WORKDIR /app/StatSmith/subgroup_A/compulsory_qn_1
+
+COPY . .
+
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["python", "dsa3101_(a)_q1_.py"]
