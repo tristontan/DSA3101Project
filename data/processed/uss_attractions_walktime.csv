@@ -1,0 +1,554 @@
+Origin Name,Destination Name,Duration,walktime
+Revenge of the Mummy,Battlestar Galactica: HUMAN,1 min,1
+Revenge of the Mummy,Battlestar Galactica: CYLON,1 min,1
+Revenge of the Mummy,Accelerator,2 mins,2
+Revenge of the Mummy,TRANSFORMERS The Ride: The Ultimate 3D Battle,3 mins,3
+Revenge of the Mummy,Canopy Flyer,2 mins,2
+Revenge of the Mummy,Dino-Soarin,2 mins,2
+Revenge of the Mummy,Jurassic Park Rapids Adventure,3 mins,3
+Revenge of the Mummy,Shrek 4-D Adventure,3 mins,3
+Revenge of the Mummy,Enchanted Airways,3 mins,3
+Revenge of the Mummy,Puss In Boots' Giant Journey,3 mins,3
+Revenge of the Mummy,Magic Potion Spin,2 mins,2
+Revenge of the Mummy,Treasure Hunters,1 min,1
+Revenge of the Mummy,"Lights, Camera, Action! Hosted by Steven Spielberg",3 mins,3
+Revenge of the Mummy,Starbucks,6 mins,6
+Revenge of the Mummy,Mel's Drive-In,4 mins,4
+Revenge of the Mummy,Loui's NY Pizza Parlor,10 mins,10
+Revenge of the Mummy,StarBot Café,2 mins,2
+Revenge of the Mummy,Oasis Spice Café,1 min,1
+Revenge of the Mummy,Discovery Food Court,2 mins,2
+Revenge of the Mummy,Fossil Fuel,2 mins,2
+Revenge of the Mummy,Goldilock,3 mins,3
+Revenge of the Mummy,Friar's Good Food,3 mins,3
+Battlestar Galactica: HUMAN,Revenge of the Mummy,1 min,1
+Battlestar Galactica: HUMAN,Battlestar Galactica: CYLON,1 min,1
+Battlestar Galactica: HUMAN,Accelerator,1 min,1
+Battlestar Galactica: HUMAN,TRANSFORMERS The Ride: The Ultimate 3D Battle,2 mins,2
+Battlestar Galactica: HUMAN,Canopy Flyer,3 mins,3
+Battlestar Galactica: HUMAN,Dino-Soarin,3 mins,3
+Battlestar Galactica: HUMAN,Jurassic Park Rapids Adventure,4 mins,4
+Battlestar Galactica: HUMAN,Shrek 4-D Adventure,4 mins,4
+Battlestar Galactica: HUMAN,Enchanted Airways,4 mins,4
+Battlestar Galactica: HUMAN,Puss In Boots' Giant Journey,4 mins,4
+Battlestar Galactica: HUMAN,Magic Potion Spin,3 mins,3
+Battlestar Galactica: HUMAN,Treasure Hunters,1 min,1
+Battlestar Galactica: HUMAN,"Lights, Camera, Action! Hosted by Steven Spielberg",2 mins,2
+Battlestar Galactica: HUMAN,Starbucks,4 mins,4
+Battlestar Galactica: HUMAN,Mel's Drive-In,3 mins,3
+Battlestar Galactica: HUMAN,Loui's NY Pizza Parlor,9 mins,9
+Battlestar Galactica: HUMAN,StarBot Café,1 min,1
+Battlestar Galactica: HUMAN,Oasis Spice Café,1 min,1
+Battlestar Galactica: HUMAN,Discovery Food Court,3 mins,3
+Battlestar Galactica: HUMAN,Fossil Fuel,3 mins,3
+Battlestar Galactica: HUMAN,Goldilock,4 mins,4
+Battlestar Galactica: HUMAN,Friar's Good Food,4 mins,4
+Battlestar Galactica: CYLON,Revenge of the Mummy,1 min,1
+Battlestar Galactica: CYLON,Battlestar Galactica: HUMAN,1 min,1
+Battlestar Galactica: CYLON,Accelerator,1 min,1
+Battlestar Galactica: CYLON,TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+Battlestar Galactica: CYLON,Canopy Flyer,4 mins,4
+Battlestar Galactica: CYLON,Dino-Soarin,4 mins,4
+Battlestar Galactica: CYLON,Jurassic Park Rapids Adventure,4 mins,4
+Battlestar Galactica: CYLON,Shrek 4-D Adventure,5 mins,5
+Battlestar Galactica: CYLON,Enchanted Airways,4 mins,4
+Battlestar Galactica: CYLON,Puss In Boots' Giant Journey,5 mins,5
+Battlestar Galactica: CYLON,Magic Potion Spin,4 mins,4
+Battlestar Galactica: CYLON,Treasure Hunters,2 mins,2
+Battlestar Galactica: CYLON,"Lights, Camera, Action! Hosted by Steven Spielberg",1 min,1
+Battlestar Galactica: CYLON,Starbucks,4 mins,4
+Battlestar Galactica: CYLON,Mel's Drive-In,2 mins,2
+Battlestar Galactica: CYLON,Loui's NY Pizza Parlor,9 mins,9
+Battlestar Galactica: CYLON,StarBot Café,1 min,1
+Battlestar Galactica: CYLON,Oasis Spice Café,1 min,1
+Battlestar Galactica: CYLON,Discovery Food Court,3 mins,3
+Battlestar Galactica: CYLON,Fossil Fuel,3 mins,3
+Battlestar Galactica: CYLON,Goldilock,4 mins,4
+Battlestar Galactica: CYLON,Friar's Good Food,4 mins,4
+Accelerator,Revenge of the Mummy,2 mins,2
+Accelerator,Battlestar Galactica: HUMAN,1 min,1
+Accelerator,Battlestar Galactica: CYLON,1 min,1
+Accelerator,TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+Accelerator,Canopy Flyer,4 mins,4
+Accelerator,Dino-Soarin,4 mins,4
+Accelerator,Jurassic Park Rapids Adventure,4 mins,4
+Accelerator,Shrek 4-D Adventure,5 mins,5
+Accelerator,Enchanted Airways,5 mins,5
+Accelerator,Puss In Boots' Giant Journey,5 mins,5
+Accelerator,Magic Potion Spin,4 mins,4
+Accelerator,Treasure Hunters,2 mins,2
+Accelerator,"Lights, Camera, Action! Hosted by Steven Spielberg",1 min,1
+Accelerator,Starbucks,4 mins,4
+Accelerator,Mel's Drive-In,2 mins,2
+Accelerator,Loui's NY Pizza Parlor,9 mins,9
+Accelerator,StarBot Café,1 min,1
+Accelerator,Oasis Spice Café,1 min,1
+Accelerator,Discovery Food Court,4 mins,4
+Accelerator,Fossil Fuel,3 mins,3
+Accelerator,Goldilock,5 mins,5
+Accelerator,Friar's Good Food,4 mins,4
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Revenge of the Mummy,3 mins,3
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Battlestar Galactica: HUMAN,2 mins,2
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Battlestar Galactica: CYLON,1 min,1
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Accelerator,1 min,1
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Canopy Flyer,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Dino-Soarin,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Jurassic Park Rapids Adventure,6 mins,6
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Shrek 4-D Adventure,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Enchanted Airways,4 mins,4
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Puss In Boots' Giant Journey,6 mins,6
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Magic Potion Spin,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Treasure Hunters,3 mins,3
+TRANSFORMERS The Ride: The Ultimate 3D Battle,"Lights, Camera, Action! Hosted by Steven Spielberg",1 min,1
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Starbucks,3 mins,3
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Mel's Drive-In,1 min,1
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Loui's NY Pizza Parlor,8 mins,8
+TRANSFORMERS The Ride: The Ultimate 3D Battle,StarBot Café,1 min,1
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Oasis Spice Café,3 mins,3
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Discovery Food Court,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Fossil Fuel,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Goldilock,5 mins,5
+TRANSFORMERS The Ride: The Ultimate 3D Battle,Friar's Good Food,5 mins,5
+Canopy Flyer,Revenge of the Mummy,2 mins,2
+Canopy Flyer,Battlestar Galactica: HUMAN,3 mins,3
+Canopy Flyer,Battlestar Galactica: CYLON,4 mins,4
+Canopy Flyer,Accelerator,4 mins,4
+Canopy Flyer,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Canopy Flyer,Dino-Soarin,1 min,1
+Canopy Flyer,Jurassic Park Rapids Adventure,1 min,1
+Canopy Flyer,Shrek 4-D Adventure,2 mins,2
+Canopy Flyer,Enchanted Airways,2 mins,2
+Canopy Flyer,Puss In Boots' Giant Journey,2 mins,2
+Canopy Flyer,Magic Potion Spin,2 mins,2
+Canopy Flyer,Treasure Hunters,1 min,1
+Canopy Flyer,"Lights, Camera, Action! Hosted by Steven Spielberg",6 mins,6
+Canopy Flyer,Starbucks,5 mins,5
+Canopy Flyer,Mel's Drive-In,5 mins,5
+Canopy Flyer,Loui's NY Pizza Parlor,10 mins,10
+Canopy Flyer,StarBot Café,4 mins,4
+Canopy Flyer,Oasis Spice Café,2 mins,2
+Canopy Flyer,Discovery Food Court,1 min,1
+Canopy Flyer,Fossil Fuel,1 min,1
+Canopy Flyer,Goldilock,2 mins,2
+Canopy Flyer,Friar's Good Food,2 mins,2
+Dino-Soarin,Revenge of the Mummy,2 mins,2
+Dino-Soarin,Battlestar Galactica: HUMAN,3 mins,3
+Dino-Soarin,Battlestar Galactica: CYLON,4 mins,4
+Dino-Soarin,Accelerator,4 mins,4
+Dino-Soarin,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Dino-Soarin,Canopy Flyer,1 min,1
+Dino-Soarin,Jurassic Park Rapids Adventure,1 min,1
+Dino-Soarin,Shrek 4-D Adventure,2 mins,2
+Dino-Soarin,Enchanted Airways,2 mins,2
+Dino-Soarin,Puss In Boots' Giant Journey,2 mins,2
+Dino-Soarin,Magic Potion Spin,2 mins,2
+Dino-Soarin,Treasure Hunters,1 min,1
+Dino-Soarin,"Lights, Camera, Action! Hosted by Steven Spielberg",6 mins,6
+Dino-Soarin,Starbucks,6 mins,6
+Dino-Soarin,Mel's Drive-In,5 mins,5
+Dino-Soarin,Loui's NY Pizza Parlor,10 mins,10
+Dino-Soarin,StarBot Café,5 mins,5
+Dino-Soarin,Oasis Spice Café,3 mins,3
+Dino-Soarin,Discovery Food Court,1 min,1
+Dino-Soarin,Fossil Fuel,1 min,1
+Dino-Soarin,Goldilock,2 mins,2
+Dino-Soarin,Friar's Good Food,2 mins,2
+Jurassic Park Rapids Adventure,Revenge of the Mummy,3 mins,3
+Jurassic Park Rapids Adventure,Battlestar Galactica: HUMAN,4 mins,4
+Jurassic Park Rapids Adventure,Battlestar Galactica: CYLON,4 mins,4
+Jurassic Park Rapids Adventure,Accelerator,4 mins,4
+Jurassic Park Rapids Adventure,TRANSFORMERS The Ride: The Ultimate 3D Battle,6 mins,6
+Jurassic Park Rapids Adventure,Canopy Flyer,1 min,1
+Jurassic Park Rapids Adventure,Dino-Soarin,1 min,1
+Jurassic Park Rapids Adventure,Shrek 4-D Adventure,3 mins,3
+Jurassic Park Rapids Adventure,Enchanted Airways,3 mins,3
+Jurassic Park Rapids Adventure,Puss In Boots' Giant Journey,3 mins,3
+Jurassic Park Rapids Adventure,Magic Potion Spin,2 mins,2
+Jurassic Park Rapids Adventure,Treasure Hunters,2 mins,2
+Jurassic Park Rapids Adventure,"Lights, Camera, Action! Hosted by Steven Spielberg",6 mins,6
+Jurassic Park Rapids Adventure,Starbucks,6 mins,6
+Jurassic Park Rapids Adventure,Mel's Drive-In,5 mins,5
+Jurassic Park Rapids Adventure,Loui's NY Pizza Parlor,11 mins,11
+Jurassic Park Rapids Adventure,StarBot Café,5 mins,5
+Jurassic Park Rapids Adventure,Oasis Spice Café,3 mins,3
+Jurassic Park Rapids Adventure,Discovery Food Court,2 mins,2
+Jurassic Park Rapids Adventure,Fossil Fuel,1 min,1
+Jurassic Park Rapids Adventure,Goldilock,2 mins,2
+Jurassic Park Rapids Adventure,Friar's Good Food,2 mins,2
+Shrek 4-D Adventure,Revenge of the Mummy,3 mins,3
+Shrek 4-D Adventure,Battlestar Galactica: HUMAN,4 mins,4
+Shrek 4-D Adventure,Battlestar Galactica: CYLON,5 mins,5
+Shrek 4-D Adventure,Accelerator,5 mins,5
+Shrek 4-D Adventure,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Shrek 4-D Adventure,Canopy Flyer,2 mins,2
+Shrek 4-D Adventure,Dino-Soarin,2 mins,2
+Shrek 4-D Adventure,Jurassic Park Rapids Adventure,3 mins,3
+Shrek 4-D Adventure,Enchanted Airways,1 min,1
+Shrek 4-D Adventure,Puss In Boots' Giant Journey,1 min,1
+Shrek 4-D Adventure,Magic Potion Spin,1 min,1
+Shrek 4-D Adventure,Treasure Hunters,2 mins,2
+Shrek 4-D Adventure,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Shrek 4-D Adventure,Starbucks,3 mins,3
+Shrek 4-D Adventure,Mel's Drive-In,3 mins,3
+Shrek 4-D Adventure,Loui's NY Pizza Parlor,8 mins,8
+Shrek 4-D Adventure,StarBot Café,5 mins,5
+Shrek 4-D Adventure,Oasis Spice Café,3 mins,3
+Shrek 4-D Adventure,Discovery Food Court,1 min,1
+Shrek 4-D Adventure,Fossil Fuel,2 mins,2
+Shrek 4-D Adventure,Goldilock,1 min,1
+Shrek 4-D Adventure,Friar's Good Food,1 min,1
+Enchanted Airways,Revenge of the Mummy,3 mins,3
+Enchanted Airways,Battlestar Galactica: HUMAN,4 mins,4
+Enchanted Airways,Battlestar Galactica: CYLON,4 mins,4
+Enchanted Airways,Accelerator,5 mins,5
+Enchanted Airways,TRANSFORMERS The Ride: The Ultimate 3D Battle,4 mins,4
+Enchanted Airways,Canopy Flyer,2 mins,2
+Enchanted Airways,Dino-Soarin,2 mins,2
+Enchanted Airways,Jurassic Park Rapids Adventure,3 mins,3
+Enchanted Airways,Shrek 4-D Adventure,1 min,1
+Enchanted Airways,Puss In Boots' Giant Journey,1 min,1
+Enchanted Airways,Magic Potion Spin,1 min,1
+Enchanted Airways,Treasure Hunters,2 mins,2
+Enchanted Airways,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Enchanted Airways,Starbucks,3 mins,3
+Enchanted Airways,Mel's Drive-In,2 mins,2
+Enchanted Airways,Loui's NY Pizza Parlor,8 mins,8
+Enchanted Airways,StarBot Café,5 mins,5
+Enchanted Airways,Oasis Spice Café,3 mins,3
+Enchanted Airways,Discovery Food Court,1 min,1
+Enchanted Airways,Fossil Fuel,2 mins,2
+Enchanted Airways,Goldilock,1 min,1
+Enchanted Airways,Friar's Good Food,1 min,1
+Puss In Boots' Giant Journey,Revenge of the Mummy,3 mins,3
+Puss In Boots' Giant Journey,Battlestar Galactica: HUMAN,4 mins,4
+Puss In Boots' Giant Journey,Battlestar Galactica: CYLON,5 mins,5
+Puss In Boots' Giant Journey,Accelerator,5 mins,5
+Puss In Boots' Giant Journey,TRANSFORMERS The Ride: The Ultimate 3D Battle,6 mins,6
+Puss In Boots' Giant Journey,Canopy Flyer,2 mins,2
+Puss In Boots' Giant Journey,Dino-Soarin,2 mins,2
+Puss In Boots' Giant Journey,Jurassic Park Rapids Adventure,3 mins,3
+Puss In Boots' Giant Journey,Shrek 4-D Adventure,1 min,1
+Puss In Boots' Giant Journey,Enchanted Airways,1 min,1
+Puss In Boots' Giant Journey,Magic Potion Spin,1 min,1
+Puss In Boots' Giant Journey,Treasure Hunters,2 mins,2
+Puss In Boots' Giant Journey,"Lights, Camera, Action! Hosted by Steven Spielberg",5 mins,5
+Puss In Boots' Giant Journey,Starbucks,4 mins,4
+Puss In Boots' Giant Journey,Mel's Drive-In,4 mins,4
+Puss In Boots' Giant Journey,Loui's NY Pizza Parlor,9 mins,9
+Puss In Boots' Giant Journey,StarBot Café,5 mins,5
+Puss In Boots' Giant Journey,Oasis Spice Café,3 mins,3
+Puss In Boots' Giant Journey,Discovery Food Court,1 min,1
+Puss In Boots' Giant Journey,Fossil Fuel,2 mins,2
+Puss In Boots' Giant Journey,Goldilock,1 min,1
+Puss In Boots' Giant Journey,Friar's Good Food,1 min,1
+Magic Potion Spin,Revenge of the Mummy,2 mins,2
+Magic Potion Spin,Battlestar Galactica: HUMAN,3 mins,3
+Magic Potion Spin,Battlestar Galactica: CYLON,4 mins,4
+Magic Potion Spin,Accelerator,4 mins,4
+Magic Potion Spin,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Magic Potion Spin,Canopy Flyer,2 mins,2
+Magic Potion Spin,Dino-Soarin,2 mins,2
+Magic Potion Spin,Jurassic Park Rapids Adventure,2 mins,2
+Magic Potion Spin,Shrek 4-D Adventure,1 min,1
+Magic Potion Spin,Enchanted Airways,1 min,1
+Magic Potion Spin,Puss In Boots' Giant Journey,1 min,1
+Magic Potion Spin,Treasure Hunters,2 mins,2
+Magic Potion Spin,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Magic Potion Spin,Starbucks,3 mins,3
+Magic Potion Spin,Mel's Drive-In,3 mins,3
+Magic Potion Spin,Loui's NY Pizza Parlor,8 mins,8
+Magic Potion Spin,StarBot Café,5 mins,5
+Magic Potion Spin,Oasis Spice Café,3 mins,3
+Magic Potion Spin,Discovery Food Court,1 min,1
+Magic Potion Spin,Fossil Fuel,1 min,1
+Magic Potion Spin,Goldilock,1 min,1
+Magic Potion Spin,Friar's Good Food,1 min,1
+Treasure Hunters,Revenge of the Mummy,1 min,1
+Treasure Hunters,Battlestar Galactica: HUMAN,1 min,1
+Treasure Hunters,Battlestar Galactica: CYLON,2 mins,2
+Treasure Hunters,Accelerator,2 mins,2
+Treasure Hunters,TRANSFORMERS The Ride: The Ultimate 3D Battle,3 mins,3
+Treasure Hunters,Canopy Flyer,1 min,1
+Treasure Hunters,Dino-Soarin,1 min,1
+Treasure Hunters,Jurassic Park Rapids Adventure,2 mins,2
+Treasure Hunters,Shrek 4-D Adventure,2 mins,2
+Treasure Hunters,Enchanted Airways,2 mins,2
+Treasure Hunters,Puss In Boots' Giant Journey,2 mins,2
+Treasure Hunters,Magic Potion Spin,2 mins,2
+Treasure Hunters,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Treasure Hunters,Starbucks,6 mins,6
+Treasure Hunters,Mel's Drive-In,5 mins,5
+Treasure Hunters,Loui's NY Pizza Parlor,10 mins,10
+Treasure Hunters,StarBot Café,3 mins,3
+Treasure Hunters,Oasis Spice Café,1 min,1
+Treasure Hunters,Discovery Food Court,1 min,1
+Treasure Hunters,Fossil Fuel,1 min,1
+Treasure Hunters,Goldilock,2 mins,2
+Treasure Hunters,Friar's Good Food,2 mins,2
+"Lights, Camera, Action! Hosted by Steven Spielberg",Revenge of the Mummy,3 mins,3
+"Lights, Camera, Action! Hosted by Steven Spielberg",Battlestar Galactica: HUMAN,2 mins,2
+"Lights, Camera, Action! Hosted by Steven Spielberg",Battlestar Galactica: CYLON,1 min,1
+"Lights, Camera, Action! Hosted by Steven Spielberg",Accelerator,1 min,1
+"Lights, Camera, Action! Hosted by Steven Spielberg",TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+"Lights, Camera, Action! Hosted by Steven Spielberg",Canopy Flyer,6 mins,6
+"Lights, Camera, Action! Hosted by Steven Spielberg",Dino-Soarin,6 mins,6
+"Lights, Camera, Action! Hosted by Steven Spielberg",Jurassic Park Rapids Adventure,6 mins,6
+"Lights, Camera, Action! Hosted by Steven Spielberg",Shrek 4-D Adventure,4 mins,4
+"Lights, Camera, Action! Hosted by Steven Spielberg",Enchanted Airways,4 mins,4
+"Lights, Camera, Action! Hosted by Steven Spielberg",Puss In Boots' Giant Journey,5 mins,5
+"Lights, Camera, Action! Hosted by Steven Spielberg",Magic Potion Spin,4 mins,4
+"Lights, Camera, Action! Hosted by Steven Spielberg",Treasure Hunters,4 mins,4
+"Lights, Camera, Action! Hosted by Steven Spielberg",Starbucks,2 mins,2
+"Lights, Camera, Action! Hosted by Steven Spielberg",Mel's Drive-In,1 min,1
+"Lights, Camera, Action! Hosted by Steven Spielberg",Loui's NY Pizza Parlor,7 mins,7
+"Lights, Camera, Action! Hosted by Steven Spielberg",StarBot Café,1 min,1
+"Lights, Camera, Action! Hosted by Steven Spielberg",Oasis Spice Café,3 mins,3
+"Lights, Camera, Action! Hosted by Steven Spielberg",Discovery Food Court,5 mins,5
+"Lights, Camera, Action! Hosted by Steven Spielberg",Fossil Fuel,5 mins,5
+"Lights, Camera, Action! Hosted by Steven Spielberg",Goldilock,4 mins,4
+"Lights, Camera, Action! Hosted by Steven Spielberg",Friar's Good Food,4 mins,4
+Starbucks,Revenge of the Mummy,6 mins,6
+Starbucks,Battlestar Galactica: HUMAN,4 mins,4
+Starbucks,Battlestar Galactica: CYLON,4 mins,4
+Starbucks,Accelerator,4 mins,4
+Starbucks,TRANSFORMERS The Ride: The Ultimate 3D Battle,3 mins,3
+Starbucks,Canopy Flyer,5 mins,5
+Starbucks,Dino-Soarin,6 mins,6
+Starbucks,Jurassic Park Rapids Adventure,6 mins,6
+Starbucks,Shrek 4-D Adventure,3 mins,3
+Starbucks,Enchanted Airways,3 mins,3
+Starbucks,Puss In Boots' Giant Journey,4 mins,4
+Starbucks,Magic Potion Spin,3 mins,3
+Starbucks,Treasure Hunters,6 mins,6
+Starbucks,"Lights, Camera, Action! Hosted by Steven Spielberg",2 mins,2
+Starbucks,Mel's Drive-In,1 min,1
+Starbucks,Loui's NY Pizza Parlor,3 mins,3
+Starbucks,StarBot Café,4 mins,4
+Starbucks,Oasis Spice Café,5 mins,5
+Starbucks,Discovery Food Court,4 mins,4
+Starbucks,Fossil Fuel,5 mins,5
+Starbucks,Goldilock,4 mins,4
+Starbucks,Friar's Good Food,3 mins,3
+Mel's Drive-In,Revenge of the Mummy,4 mins,4
+Mel's Drive-In,Battlestar Galactica: HUMAN,3 mins,3
+Mel's Drive-In,Battlestar Galactica: CYLON,2 mins,2
+Mel's Drive-In,Accelerator,2 mins,2
+Mel's Drive-In,TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+Mel's Drive-In,Canopy Flyer,5 mins,5
+Mel's Drive-In,Dino-Soarin,5 mins,5
+Mel's Drive-In,Jurassic Park Rapids Adventure,5 mins,5
+Mel's Drive-In,Shrek 4-D Adventure,3 mins,3
+Mel's Drive-In,Enchanted Airways,2 mins,2
+Mel's Drive-In,Puss In Boots' Giant Journey,4 mins,4
+Mel's Drive-In,Magic Potion Spin,3 mins,3
+Mel's Drive-In,Treasure Hunters,5 mins,5
+Mel's Drive-In,"Lights, Camera, Action! Hosted by Steven Spielberg",1 min,1
+Mel's Drive-In,Starbucks,1 min,1
+Mel's Drive-In,Loui's NY Pizza Parlor,6 mins,6
+Mel's Drive-In,StarBot Café,2 mins,2
+Mel's Drive-In,Oasis Spice Café,4 mins,4
+Mel's Drive-In,Discovery Food Court,3 mins,3
+Mel's Drive-In,Fossil Fuel,4 mins,4
+Mel's Drive-In,Goldilock,3 mins,3
+Mel's Drive-In,Friar's Good Food,3 mins,3
+Loui's NY Pizza Parlor,Revenge of the Mummy,10 mins,10
+Loui's NY Pizza Parlor,Battlestar Galactica: HUMAN,9 mins,9
+Loui's NY Pizza Parlor,Battlestar Galactica: CYLON,8 mins,8
+Loui's NY Pizza Parlor,Accelerator,4 mins,4
+Loui's NY Pizza Parlor,TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+Loui's NY Pizza Parlor,Canopy Flyer,10 mins,10
+Loui's NY Pizza Parlor,Dino-Soarin,10 mins,10
+Loui's NY Pizza Parlor,Jurassic Park Rapids Adventure,11 mins,11
+Loui's NY Pizza Parlor,Shrek 4-D Adventure,8 mins,8
+Loui's NY Pizza Parlor,Enchanted Airways,7 mins,7
+Loui's NY Pizza Parlor,Puss In Boots' Giant Journey,9 mins,9
+Loui's NY Pizza Parlor,Magic Potion Spin,8 mins,8
+Loui's NY Pizza Parlor,Treasure Hunters,10 mins,10
+Loui's NY Pizza Parlor,"Lights, Camera, Action! Hosted by Steven Spielberg",7 mins,7
+Loui's NY Pizza Parlor,Starbucks,3 mins,3
+Loui's NY Pizza Parlor,Mel's Drive-In,6 mins,6
+Loui's NY Pizza Parlor,StarBot Café,8 mins,8
+Loui's NY Pizza Parlor,Oasis Spice Café,10 mins,10
+Loui's NY Pizza Parlor,Discovery Food Court,9 mins,9
+Loui's NY Pizza Parlor,Fossil Fuel,10 mins,10
+Loui's NY Pizza Parlor,Goldilock,8 mins,8
+Loui's NY Pizza Parlor,Friar's Good Food,8 mins,8
+StarBot Café,Revenge of the Mummy,2 mins,2
+StarBot Café,Battlestar Galactica: HUMAN,1 min,1
+StarBot Café,Battlestar Galactica: CYLON,1 min,1
+StarBot Café,Accelerator,1 min,1
+StarBot Café,TRANSFORMERS The Ride: The Ultimate 3D Battle,1 min,1
+StarBot Café,Canopy Flyer,4 mins,4
+StarBot Café,Dino-Soarin,5 mins,5
+StarBot Café,Jurassic Park Rapids Adventure,5 mins,5
+StarBot Café,Shrek 4-D Adventure,5 mins,5
+StarBot Café,Enchanted Airways,5 mins,5
+StarBot Café,Puss In Boots' Giant Journey,5 mins,5
+StarBot Café,Magic Potion Spin,5 mins,5
+StarBot Café,Treasure Hunters,3 mins,3
+StarBot Café,"Lights, Camera, Action! Hosted by Steven Spielberg",1 min,1
+StarBot Café,Starbucks,4 mins,4
+StarBot Café,Mel's Drive-In,2 mins,2
+StarBot Café,Loui's NY Pizza Parlor,8 mins,8
+StarBot Café,Oasis Spice Café,2 mins,2
+StarBot Café,Discovery Food Court,4 mins,4
+StarBot Café,Fossil Fuel,4 mins,4
+StarBot Café,Goldilock,5 mins,5
+StarBot Café,Friar's Good Food,5 mins,5
+Oasis Spice Café,Revenge of the Mummy,1 min,1
+Oasis Spice Café,Battlestar Galactica: HUMAN,1 min,1
+Oasis Spice Café,Battlestar Galactica: CYLON,1 min,1
+Oasis Spice Café,Accelerator,1 min,1
+Oasis Spice Café,TRANSFORMERS The Ride: The Ultimate 3D Battle,3 mins,3
+Oasis Spice Café,Canopy Flyer,2 mins,2
+Oasis Spice Café,Dino-Soarin,3 mins,3
+Oasis Spice Café,Jurassic Park Rapids Adventure,3 mins,3
+Oasis Spice Café,Shrek 4-D Adventure,3 mins,3
+Oasis Spice Café,Enchanted Airways,3 mins,3
+Oasis Spice Café,Puss In Boots' Giant Journey,3 mins,3
+Oasis Spice Café,Magic Potion Spin,3 mins,3
+Oasis Spice Café,Treasure Hunters,1 min,1
+Oasis Spice Café,"Lights, Camera, Action! Hosted by Steven Spielberg",3 mins,3
+Oasis Spice Café,Starbucks,5 mins,5
+Oasis Spice Café,Mel's Drive-In,4 mins,4
+Oasis Spice Café,Loui's NY Pizza Parlor,10 mins,10
+Oasis Spice Café,StarBot Café,2 mins,2
+Oasis Spice Café,Discovery Food Court,2 mins,2
+Oasis Spice Café,Fossil Fuel,2 mins,2
+Oasis Spice Café,Goldilock,3 mins,3
+Oasis Spice Café,Friar's Good Food,3 mins,3
+Discovery Food Court,Revenge of the Mummy,2 mins,2
+Discovery Food Court,Battlestar Galactica: HUMAN,3 mins,3
+Discovery Food Court,Battlestar Galactica: CYLON,3 mins,3
+Discovery Food Court,Accelerator,4 mins,4
+Discovery Food Court,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Discovery Food Court,Canopy Flyer,1 min,1
+Discovery Food Court,Dino-Soarin,1 min,1
+Discovery Food Court,Jurassic Park Rapids Adventure,2 mins,2
+Discovery Food Court,Shrek 4-D Adventure,1 min,1
+Discovery Food Court,Enchanted Airways,1 min,1
+Discovery Food Court,Puss In Boots' Giant Journey,1 min,1
+Discovery Food Court,Magic Potion Spin,1 min,1
+Discovery Food Court,Treasure Hunters,1 min,1
+Discovery Food Court,"Lights, Camera, Action! Hosted by Steven Spielberg",5 mins,5
+Discovery Food Court,Starbucks,4 mins,4
+Discovery Food Court,Mel's Drive-In,3 mins,3
+Discovery Food Court,Loui's NY Pizza Parlor,9 mins,9
+Discovery Food Court,StarBot Café,4 mins,4
+Discovery Food Court,Oasis Spice Café,2 mins,2
+Discovery Food Court,Fossil Fuel,1 min,1
+Discovery Food Court,Goldilock,1 min,1
+Discovery Food Court,Friar's Good Food,1 min,1
+Fossil Fuel,Revenge of the Mummy,2 mins,2
+Fossil Fuel,Battlestar Galactica: HUMAN,3 mins,3
+Fossil Fuel,Battlestar Galactica: CYLON,3 mins,3
+Fossil Fuel,Accelerator,3 mins,3
+Fossil Fuel,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Fossil Fuel,Canopy Flyer,1 min,1
+Fossil Fuel,Dino-Soarin,1 min,1
+Fossil Fuel,Jurassic Park Rapids Adventure,1 min,1
+Fossil Fuel,Shrek 4-D Adventure,2 mins,2
+Fossil Fuel,Enchanted Airways,2 mins,2
+Fossil Fuel,Puss In Boots' Giant Journey,2 mins,2
+Fossil Fuel,Magic Potion Spin,1 min,1
+Fossil Fuel,Treasure Hunters,1 min,1
+Fossil Fuel,"Lights, Camera, Action! Hosted by Steven Spielberg",5 mins,5
+Fossil Fuel,Starbucks,5 mins,5
+Fossil Fuel,Mel's Drive-In,4 mins,4
+Fossil Fuel,Loui's NY Pizza Parlor,10 mins,10
+Fossil Fuel,StarBot Café,4 mins,4
+Fossil Fuel,Oasis Spice Café,2 mins,2
+Fossil Fuel,Discovery Food Court,1 min,1
+Fossil Fuel,Goldilock,2 mins,2
+Fossil Fuel,Friar's Good Food,1 min,1
+Goldilock,Revenge of the Mummy,3 mins,3
+Goldilock,Battlestar Galactica: HUMAN,4 mins,4
+Goldilock,Battlestar Galactica: CYLON,4 mins,4
+Goldilock,Accelerator,5 mins,5
+Goldilock,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Goldilock,Canopy Flyer,2 mins,2
+Goldilock,Dino-Soarin,2 mins,2
+Goldilock,Jurassic Park Rapids Adventure,2 mins,2
+Goldilock,Shrek 4-D Adventure,1 min,1
+Goldilock,Enchanted Airways,1 min,1
+Goldilock,Puss In Boots' Giant Journey,1 min,1
+Goldilock,Magic Potion Spin,1 min,1
+Goldilock,Treasure Hunters,2 mins,2
+Goldilock,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Goldilock,Starbucks,4 mins,4
+Goldilock,Mel's Drive-In,3 mins,3
+Goldilock,Loui's NY Pizza Parlor,9 mins,9
+Goldilock,StarBot Café,5 mins,5
+Goldilock,Oasis Spice Café,3 mins,3
+Goldilock,Discovery Food Court,1 min,1
+Goldilock,Fossil Fuel,2 mins,2
+Goldilock,Friar's Good Food,1 min,1
+Friar's Good Food,Revenge of the Mummy,3 mins,3
+Friar's Good Food,Battlestar Galactica: HUMAN,4 mins,4
+Friar's Good Food,Battlestar Galactica: CYLON,4 mins,4
+Friar's Good Food,Accelerator,4 mins,4
+Friar's Good Food,TRANSFORMERS The Ride: The Ultimate 3D Battle,5 mins,5
+Friar's Good Food,Canopy Flyer,2 mins,2
+Friar's Good Food,Dino-Soarin,2 mins,2
+Friar's Good Food,Jurassic Park Rapids Adventure,2 mins,2
+Friar's Good Food,Shrek 4-D Adventure,1 min,1
+Friar's Good Food,Enchanted Airways,1 min,1
+Friar's Good Food,Puss In Boots' Giant Journey,1 min,1
+Friar's Good Food,Magic Potion Spin,1 min,1
+Friar's Good Food,Treasure Hunters,2 mins,2
+Friar's Good Food,"Lights, Camera, Action! Hosted by Steven Spielberg",4 mins,4
+Friar's Good Food,Starbucks,3 mins,3
+Friar's Good Food,Mel's Drive-In,3 mins,3
+Friar's Good Food,Loui's NY Pizza Parlor,8 mins,8
+Friar's Good Food,StarBot Café,5 mins,5
+Friar's Good Food,Oasis Spice Café,3 mins,3
+Friar's Good Food,Discovery Food Court,1 min,1
+Friar's Good Food,Fossil Fuel,1 min,1
+Friar's Good Food,Goldilock,1 min,1
+Entrance,Revenge of the Mummy,7 mins,7
+Entrance,Battlestar Galactica: HUMAN,5 mins,5
+Entrance,Battlestar Galactica: CYLON,5 mins,5
+Entrance,Accelerator,5 mins,5
+Entrance,TRANSFORMERS The Ride: The Ultimate 3D Battle,4 mins,4
+Entrance,Canopy Flyer,6 mins,6
+Entrance,Dino-Soarin,7 mins,7
+Entrance,Jurassic Park Rapids Adventure,7 mins,7
+Entrance,Shrek 4-D Adventure,4 mins,4
+Entrance,Enchanted Airways,4 mins,4
+Entrance,Puss In Boots' Giant Journey,5 mins,5
+Entrance,Magic Potion Spin,4 mins,4
+Entrance,Treasure Hunters,7 mins,7
+Entrance,"Lights, Camera, Action! Hosted by Steven Spielberg",3 mins,3
+Entrance,Mel's Drive-In,2 mins,2
+Entrance,Loui's NY Pizza Parlor,4 mins,4
+Entrance,StarBot Café,5 mins,5
+Entrance,Oasis Spice Café,6 mins,6
+Entrance,Discovery Food Court,5 mins,5
+Entrance,Fossil Fuel,6 mins,6
+Entrance,Goldilock,5 mins,5
+Entrance,Friar's Good Food,4 mins,4
+Entrance,Starbucks,1 min,1
+Revenge of the Mummy,Revenge of the Mummy,0 min,0
+Battlestar Galactica: HUMAN,Battlestar Galactica: HUMAN,0 min,0
+Battlestar Galactica: CYLON,Battlestar Galactica: CYLON,0 min,0
+Accelerator,Accelerator,0 min,0
+TRANSFORMERS The Ride: The Ultimate 3D Battle,TRANSFORMERS The Ride: The Ultimate 3D Battle,0 min,0
+Canopy Flyer,Canopy Flyer,0 min,0
+Dino-Soarin,Dino-Soarin,0 min,0
+Jurassic Park Rapids Adventure,Jurassic Park Rapids Adventure,0 min,0
+Shrek 4-D Adventure,Shrek 4-D Adventure,0 min,0
+Enchanted Airways,Enchanted Airways,0 min,0
+Puss In Boots' Giant Journey,Puss In Boots' Giant Journey,0 min,0
+Magic Potion Spin,Magic Potion Spin,0 min,0
+Treasure Hunters,Treasure Hunters,0 min,0
+"Lights, Camera, Action! Hosted by Steven Spielberg","Lights, Camera, Action! Hosted by Steven Spielberg",0 min,0
+Starbucks,Starbucks,0 min,0
+Mel's Drive-In,Mel's Drive-In,0 min,0
+Loui's NY Pizza Parlor,Loui's NY Pizza Parlor,0 min,0
+StarBot Café,StarBot Café,0 min,0
+Oasis Spice Café,Oasis Spice Café,0 min,0
+Discovery Food Court,Discovery Food Court,0 min,0
+Fossil Fuel,Fossil Fuel,0 min,0
+Goldilock,Goldilock,0 min,0
+Friar's Good Food,Friar's Good Food,0 min,0
+Entrance,Entrance,0 min,0
