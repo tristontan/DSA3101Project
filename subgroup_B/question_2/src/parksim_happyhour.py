@@ -6,7 +6,7 @@ import pickle
 
 RANDOM_SEED = 170
 VISITORS_PER_BATCH = 5 # Assume visitors arrive in groups of 5
-NEW_VISITOR_BATCHES = 5500 # Roughly 10000 visitors should be in the park every day
+NEW_VISITOR_BATCHES = 4500 # Roughly 10000 visitors should be in the park every day
 INTERVAL_BATCHES = 100.0  # Generate new customers roughly every x clicks
 MIN_PATIENCE = 45  # Min. customer patience - from survey
 MAX_PATIENCE = 60  # Max. customer patience - from survey
@@ -56,9 +56,9 @@ def adjustDesirability(attracts, current_time, current_position, lunch_start=LUN
         
         elif happy_start <= current_time <= happy_end:
             if attract['type'] == 'restaurant':
-                attract['adjusted_desirability'] *= 6  # Increase desirability by a factor for happy hour
+                attract['adjusted_desirability'] *= 2  # Increase desirability by a factor for happy hour
             elif attract['type'] == 'ride':
-                attract['adjusted_desirability'] *= 1/6
+                attract['adjusted_desirability'] *= 1/2
 
         # Proximity-based adjustment
         distance = ((current_position[0] - attract['x'])**2 + (current_position[1] - attract['y'])**2) ** 0.5
@@ -298,8 +298,8 @@ def logDesirabilityEveryInterval(env, attractions, closing_hour, interval=30):
 #---------------- main loop -------------------
 
 
-attractList = pd.read_csv(open("attractions.csv","r"))
-walkList = pd.read_csv(open("attractions_walktime.csv", "r"))
+attractList = pd.read_csv(open("uss_attractions.csv","r"))
+walkList = pd.read_csv(open("uss_attractions_walktime.csv", "r"))
 
 # Setup and start the simulation
 print('Mini park with renege')
@@ -316,18 +316,12 @@ for index, row in attractList.iterrows():
     attracts[thisname]['name'] = thisname
     attracts[thisname]['type'] = rowlist[2]
     attracts[thisname]['desirability'] = int(rowlist[3])
-    #attracts[thisname]['capacity'] = int(rowlist[4])
-    # Scale down the initial capacity and ensure it is at least 1 since we scaled down number of visitors
     attracts[thisname]['capacity'] = max(1, int(rowlist[4] / 25))
     attracts[thisname]['timelength'] = float(rowlist[5]) / 60
     attracts[thisname]['x'] = rowlist[6]
     attracts[thisname]['y'] = rowlist[7]
     attracts[thisname]['pricerange_min'] = rowlist[10]
     attracts[thisname]['pricerange_max'] = rowlist[11]
-    #try:
-    #    attracts[thisname]['resource'] = simpy.Resource(env, capacity=attracts[thisname]['capacity'])
-    #except:
-    #    print('something happened assigning this attraction:',attracts[thisname]['name'],attracts[thisname]['capacity'])
     attracts[thisname]['resource'] = MonitoredResource(env, capacity=attracts[thisname]['capacity'])
     attracts[thisname]['wait_times'] = []
     attracts[thisname]['visitor_count'] = 0
