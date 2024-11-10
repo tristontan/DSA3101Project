@@ -1,0 +1,24 @@
+## Data manipulation
+pandas==1.5.3
+numpy==1.24.2
+
+# Data visualization
+matplotlib==3.7.1
+seaborn==0.12.2
+
+## Statistical and scientific computing
+scipy==1.10.1
+statsmodels==0.13.2
+
+# Google Drive and Colab
+gspread==5.7.0
+oauth2client==4.1.3
+
+## SQL connection
+sqlite3  # Pre-installed with Python, no version required
+
+## Google Colab authentication
+google-auth==2.15.0
+
+# Synthetic data generation
+sdv==1.0.0  # Ensure compatibility by checking for the latest stable version
