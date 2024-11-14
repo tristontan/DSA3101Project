@@ -91,19 +91,35 @@ The dataset includes only public information that users have chosen to share, in
 
 # Data Sources (Processed Data)
 1. uss_international_tourist_arrival.xlsx
-- Description:
-- Source:
-- Structure
+- Description: Contains number of Singapore's monthly international tourists arrival from Jan 1978 - Sep 2024
+- [Source](https://tablebuilder.singstat.gov.sg/table/TS/M550001#)
+- Structure:
+
+| Column Name  | Description                                                               | Type    |
+|--------------|---------------------------------------------------------------------------|---------|
+| Data Series         | Year and Month of data collection                                  | date  |
+| Total International Visitor Arrivals By Inbound Tourism Markets  | Total Number of International Visitor Arrivals  | int64  |
 
 2. uss_sg_holidays.xls
-- Description:
-- Source:
+- Description: Contains dates of Singapore's public holidays and school holidays (primary school, secondary school and JC) in 2023 and 2024
+- Source: data.gov.sg and moe.gov.sg
 - Structure
 
+| Column Name  | Description                                                               | Type    |
+|--------------|---------------------------------------------------------------------------|---------|
+| date         | Date of the holiday                                  | date  |
+| day  | Day of the holiday  | object  |
+| holiday  | Type of holiday  | object  |
+
 3. uss_special_events.xlsx
-- Description:
-- Source:
+- Description: Contains date of USS's special events from 2023 - 2024.
+- Source: Extracted from USS Instagram and Website
 - Structure
+
+| Column Name  | Description                                                               | Type    |
+|--------------|---------------------------------------------------------------------------|---------|
+| date         | Date of the event                                 | date  |
+| special_event  | Name of event  | object  |
 
 ## Notes
 - Data Privacy: No personal or sensitive information is included in these datasets. All data is either publicly available, generated synthetically, or anonymized for use in this project.
