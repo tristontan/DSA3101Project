@@ -1,4 +1,4 @@
-# Enhancing Guest Experience through Data-Driven Journey Mapping and Analysis - Stat Smith (Group 21)
+# Enhancing Guest Experience in USS through Data-Driven Journey Mapping and Analysis - Stat Smith (Group 21)
 
 ## Project overview
 Attractions and entertainment venues often struggle to provide consistently excellent guest experiences due to a lack of comprehensive understanding of the guest journey, preferences, and pain points. Traditional methods of gathering and analyzing guest data often fall short in providing actionable insights to improve operations, marketing strategies, and overall guest satisfaction.
