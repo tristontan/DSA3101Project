@@ -40,4 +40,4 @@ Accessibility | Importance of accessibility | float64
    docker build -t uss-guest-segmentation .
 2. Run the Docker container:
    ```bash
-   docker run -p 8888:8888 project-name
+   docker run -p 8888:8888 uss-guest-segmentation
