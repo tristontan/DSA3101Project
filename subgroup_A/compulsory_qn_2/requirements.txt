@@ -1,0 +1,10 @@
+sdv
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+statsmodels
+plotly==5.15.0
+kneed
