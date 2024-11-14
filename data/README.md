@@ -250,7 +250,7 @@ On a scale from 1 to 5, in wet weather, how likely are you to choose the followi
 | What suggestions do you have to improve the process of purchasing tickets from the USS website? (If you have not previously purchased tickets from the USS Website, please enter NIL) | Suggestions for improving USS Website purchasing experience | object |
 
 # Data Sources (Processed Data)
-1. uss_international_tourist_arrival.xlsx
+1. `uss_international_tourist_arrival.xlsx`
 - Description: Contains number of Singapore's monthly international tourists arrival from Jan 1978 - Sep 2024
 - [Source](https://tablebuilder.singstat.gov.sg/table/TS/M550001#)
 - Structure:
@@ -260,7 +260,7 @@ On a scale from 1 to 5, in wet weather, how likely are you to choose the followi
 | Data Series         | Year and Month of data collection                                  | date  |
 | Total International Visitor Arrivals By Inbound Tourism Markets  | Total Number of International Visitor Arrivals  | int64  |
 
-2. uss_sg_holidays.xls
+2. `uss_sg_holidays.xls`
 - Description: Contains dates of Singapore's public holidays and school holidays (primary school, secondary school and JC) in 2023 and 2024
 - Source: data.gov.sg and moe.gov.sg
 - Structure
@@ -271,7 +271,7 @@ On a scale from 1 to 5, in wet weather, how likely are you to choose the followi
 | day  | Day of the holiday  | object  |
 | holiday  | Type of holiday  | object  |
 
-3. uss_special_events.xlsx
+3. `uss_special_events.xlsx`
 - Description: Contains date of USS's special events from 2023 - 2024.
 - Source: Extracted from USS Instagram and Website
 - Structure
@@ -459,7 +459,7 @@ On a scale from 1 to 5, in wet weather, how likely are you to choose the followi
 | Purchasing factors [Option to Add-On Parking Passes during Purchase] | Indicates preference for parking pass add-ons at purchase | int64 |
 | Suggestions for improving USS website | Visitor suggestions for website improvements | object |
 
-5. 'subgroup_a_question_2_train.xlsx`, 'subgroup_a_question_2_val.xlsx`,'subgroup_a_question_2_test.xlsx`
+5. `subgroup_a_question_2_train.xlsx`, `subgroup_a_question_2_val.xlsx`,`subgroup_a_question_2_test.xlsx`
 - Description: Cleaned and balanced survey data from Version 2 Cleaned Data (see above). The train, validation and test data all have the same data structure as `v2_cleaned_imbalanced_survey_data.xlsx`
 - Source: Details about how we conduct our survey can be found [here](https://github.com/tristontan/StatSmith/wiki/USS-Guest-Experience-Survey)
 
