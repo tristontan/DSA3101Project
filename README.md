@@ -10,4 +10,8 @@ Each question is organized in its own subfolder. For a detailed description of e
  
 ## Repository Structure
 
+## Code Style Guide Adherence
+To ensure our code is readable, maintainable, and consistent, we followed PEP 8 standard code style guidelines throughout the project
+
+
 
