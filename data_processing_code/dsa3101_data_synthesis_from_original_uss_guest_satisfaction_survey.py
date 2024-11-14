@@ -41,12 +41,7 @@ pd.set_option('display.max_rows', None)
 
 """### Importing data"""
 
-from google.colab import drive
-drive.mount('/content/drive')
-
-df = pd.read_csv('/content/drive/MyDrive/DSA3101 Data/Clean Data/[V2] Survey_cleaned_imbalanced.csv')
-
-df.head()
+df = pd.read_csv('../../data/processed/[V2] Survey_cleaned_imbalanced.csv')
 
 """### Synthesising data
 1. EDA
