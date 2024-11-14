@@ -6,6 +6,9 @@ This project aims to develop a data-driven system that maps and analyzes the ent
 
 Each question is organized in its own subfolder. For a detailed description of each question, including specific objectives, methodologies, data preparation and analysis, please refer to our [Wiki](https://github.com/tristontan/StatSmith/wiki).
 
+## Data Sources
+Refer to [here](https://github.com/tristontan/StatSmith/blob/main/data/README.md)
+
 ## Setup Instructions
 To get started with this project, first clone the repository:
 ```bash
