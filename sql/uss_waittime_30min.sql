@@ -19,3 +19,5 @@ GROUP BY
     Ride, Interval_30min -- Group results by Ride and Interval_30min to aggregate data
 ORDER BY 
     Interval_30min; -- Order the results by Interval_30min for chronological output
+
+-- Saved to "data/processed/uss_30min_interval_avg_waittimes.csv"
