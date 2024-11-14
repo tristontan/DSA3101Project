@@ -1,0 +1,6 @@
+Ride waiting tolerance_ID,Ride waiting tolerance
+1,Less than 15 minutes
+2,15 - 30 minutes
+3,31 - 45 minutes
+4,46 - 60 minutes
+5,More than 60 minutes
