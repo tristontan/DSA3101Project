@@ -20,6 +20,112 @@ cd StatSmith
 Each question in this project has its own setup instructions, including specific dependencies and configurations. For detailed setup guidance on each question, please refer to our [Wiki](https://github.com/tristontan/StatSmith/wiki), where you’ll find clear, step-by-step instructions tailored for each part of the project.
  
 ## Repository Structure
+```bash
+📦 
+├─ README.md
+├─ data
+│  ├─ README.md
+│  ├─ USS Guest Experience.pdf
+│  ├─ processed
+│  │  ├─ .gitkeep
+│  │  ├─ Age_mapped.csv
+│  │  ├─ Express_pass_purchase_mapped.csv
+│  │  ├─ Gender_mapped.csv
+│  │  ├─ Max_tolerable_ticket_price_[Non-peak]_mapped.csv
+│  │  ├─ Max_tolerable_ticket_price_[Peak]_mapped.csv
+│  │  ├─ Ride_waiting_tolerance_mapped.csv
+│  │  ├─ Time_enter_mapped.csv
+│  │  ├─ Time_leave_mapped.csv
+│  │  ├─ Tourist_Local_mapped.csv
+│  │  ├─ Visiting_frequency_mapped.csv
+│  │  ├─ Wet_weather_waiting_tolerance_mapped.csv
+│  │  ├─ subgroup_a_question_2_test.xlsx
+│  │  ├─ subgroup_a_question_2_train.xlsx
+│  │  ├─ subgroup_a_question_2_val.xlsx
+│  │  ├─ tripadvisor_sentiment_analysis.csv
+│  │  ├─ uss_30min_interval_avg_waittimes.csv
+│  │  ├─ uss_attractions.csv
+│  │  ├─ uss_attractions_locations.csv
+│  │  ├─ uss_attractions_walktime.csv
+│  │  ├─ uss_international_tourist_arrival.xlsx
+│  │  ├─ uss_processed_wait_times.csv
+│  │  ├─ uss_sg_holidays.xls
+│  │  ├─ uss_special_events.xlsx
+│  │  ├─ uss_waittime_and_weather.csv
+│  │  └─ v2_cleaned_imbalanced_survey_data.xlsx
+│  └─ raw
+│     ├─ .gitkeep
+│     ├─ raw_survey_data.csv
+│     ├─ sentosa_region_weather_data.csv
+│     ├─ uss_attractions_locations.csv
+│     ├─ uss_ride_details.csv
+│     ├─ uss_tripadvisor_reviews.xlsx
+│     └─ uss_wait_times.csv
+├─ data_processing_code
+│  ├─ .gitkeep
+│  ├─ dsa3101_data_synthesis_from_original_uss_guest_satisfaction_survey.py
+│  ├─ final_sentiment_analysis.ipynb
+│  ├─ subgroup_a_question_2_data_cleaning.ipynb
+│  ├─ subgroup_b_question1_data_cleaning.ipynb
+│  └─ update_waittimecode.py
+├─ sql
+│  ├─ uss_wait_times_schema.sql
+│  └─ uss_waittime_30min.sql
+├─ subgroup_A
+│  ├─ .gitkeep
+│  ├─ compulsory_qn_1_folder
+│  │  ├─ DSA3101_(A)_Q1_.ipynb
+│  │  ├─ DockerFile
+│  │  ├─ Survey_cleaned_balanced.xlsx
+│  │  ├─ dsa3101_(a)_q1_.py
+│  │  ├─ key_drivers.ipynb
+│  │  ├─ key_drivers.py
+│  │  ├─ requirements.txt
+│  │  └─ tourist_locals_analysis.ipynb
+│  ├─ compulsory_qn_2
+│  │  └─ src
+│  └─ compulsory_qn_3
+│     └─ .gitignore
+└─ subgroup_B
+   ├─ question_1_and_op_question_1
+   │  ├─ DSA3101_Project_Question_1.ipynb
+   │  └─ src
+   │     ├─ Dockerfile
+   │     ├─ README.md
+   │     ├─ assets
+   │     │  └─ uss_banner.jpg
+   │     ├─ main.py
+   │     ├─ model
+   │     │  └─ rf_model.pkl
+   │     ├─ requirements.txt
+   │     └─ static
+   │        └─ styles.css
+   ├─ question_2
+   │  ├─ .gitkeep
+   │  ├─ DSA3101_Project_Question_B2.ipynb
+   │  ├─ Dockerfile
+   │  ├─ requirements.txt
+   │  └─ src
+   │     ├─ parksim.py
+   │     ├─ parksim_happyhour.py
+   │     ├─ parksim_records.p
+   │     └─ parksim_records_with_changes.p
+   └─ question_3
+      ├─ DSA3101_Project_Question B3.ipynb
+      ├─ DSA3101_Project_Question B3.py
+      ├─ Dockerfile
+      ├─ README.md
+      ├─ output
+      │  ├─ initial_vs_optimized_wait_times_comparison.png
+      │  ├─ ride_waittime_before_after_optimization.png
+      │  ├─ staff_allocation_table_optimized.csv
+      │  ├─ staff_allocations_2024-05-13.csv
+      │  ├─ wait_time_staff_comparison_per_ride.png
+      │  ├─ wait_time_table_optimized.csv
+      │  └─ wait_times_2024-05-13.csv
+      ├─ requirements.txt
+      └─ test_api.py
+```
 
 ## Code Style Guide Adherence
 To ensure our code is readable, maintainable, and consistent, we followed PEP 8 standard code style guidelines throughout the project
