@@ -15,7 +15,8 @@ import pandas as pd
 import statsmodels.api as sm
 import matplotlib.pyplot as plt
 import seaborn as sns
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
 !pip install gspread oauth2client
 from google.colab import auth
