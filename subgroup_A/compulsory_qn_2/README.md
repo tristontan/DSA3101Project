@@ -27,17 +27,37 @@ Accessibility | Importance of accessibility | float64
 
 ## Setup Instructions
 
-### Local Setup
+To set up the project, follow these steps:
 
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   
-### Docker Setup
+**Local Setup:**
+
+1. Clone the repository (edit repository name and url accordingly):
+
+```
+git clone <repository-url>
+cd <repository-name>
+```
+
+2. Install the dependencies:
+
+```
+pip install -r requirements.txt
+```
+
+3. Launch Jupyter Notebooks and open the relevant notebooks in the notebooks/ folder.
+
+**Docker Setup:**
 
 1. Build the Docker image:
-   ```bash
-   docker build -t uss-guest-segmentation .
+
+```
+docker build -t uss-guest-segmentation .
+```
+
 2. Run the Docker container:
-   ```bash
-   docker run -p 8888:8888 uss-guest-segmentation
+
+```
+docker run -p 8888:8888 uss-guest-segmentation
+```
+
+3. Open a browser and go to http://localhost:8888 to access the Jupyter notebook interface.
