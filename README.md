@@ -24,10 +24,9 @@ Each question in this project has its own setup instructions, including specific
 📦 
 ├─ README.md
 ├─ data
-│  ├─ README.md
-│  ├─ USS Guest Experience.pdf
-│  ├─ processed
-│  │  ├─ .gitkeep
+│  ├─ README.md                          # Contain data description and dictionary
+│  ├─ USS Guest Experience.pdf           # Full survey questions conducted by us
+│  ├─ processed                          # Contain all processed data
 │  │  ├─ Age_mapped.csv
 │  │  ├─ Express_pass_purchase_mapped.csv
 │  │  ├─ Gender_mapped.csv
@@ -57,25 +56,23 @@ Each question in this project has its own setup instructions, including specific
 │  │  ├─ uss_special_events.xlsx
 │  │  ├─ uss_waittime_and_weather.csv
 │  │  └─ v2_cleaned_imbalanced_survey_data.xlsx
-│  └─ raw
-│     ├─ .gitkeep
+│  └─ raw                                         # Contain all raw data
 │     ├─ raw_survey_data.csv
 │     ├─ sentosa_region_weather_data.csv
 │     ├─ uss_attractions_locations.csv
 │     ├─ uss_ride_details.csv
 │     ├─ uss_tripadvisor_reviews.xlsx
 │     └─ uss_wait_times.csv
-├─ data_processing_code
-│  ├─ .gitkeep
+├─ data_processing_code                           # Contain data processing code used
 │  ├─ dsa3101_data_synthesis_from_original_uss_guest_satisfaction_survey.py
 │  ├─ final_sentiment_analysis.ipynb
 │  ├─ subgroup_a_question_2_data_cleaning.ipynb
 │  ├─ subgroup_b_question1_data_cleaning.ipynb
 │  └─ update_waittimecode.py
-├─ sql
+├─ sql                                            # Contain sql queries used
 │  ├─ uss_wait_times_schema.sql
 │  └─ uss_waittime_30min.sql
-├─ subgroup_A
+├─ subgroup_A                                     # Subgroup A folder
 │  ├─ compulsory_qn_1_folder
 │  │  ├─ DSA3101_(A)_Q1_.ipynb
 │  │  ├─ DockerFile
@@ -111,7 +108,7 @@ Each question in this project has its own setup instructions, including specific
 │     ├─ .gitkeep
 │     ├─ DSA3101 (A) Q2 Optional.docx
 │     └─ SUBGROUP_A_OPTIONAL_QN_2.ipynb
-└─ subgroup_B
+└─ subgroup_B                                       # Subgroup B Folder
    ├─ question_1_and_op_question_1
    │  ├─ DSA3101_Project_Question_1.ipynb
    │  └─ src
