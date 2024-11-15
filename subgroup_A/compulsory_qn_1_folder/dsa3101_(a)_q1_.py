@@ -4,10 +4,6 @@ import sqlite3
 
 data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
-!pip install gspread oauth2client
-from google.colab import auth
-auth.authenticate_user()
-
 print(len(data))
 data.tail()
 ########################################################################################################################################
@@ -43,7 +39,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 uss_columns = ['USS experience rating [Variety of Rides and Attractions]', 'USS experience rating [Entertainment and Shows (e.g. Rollercoasters, WaterWorld Performance)]', 'USS experience rating [Waiting Time]','USS experience rating [Cleanliness of Park and Amenities]','USS experience rating [Staff Friendliness]','USS experience rating [Availability of Rest Areas]','USS experience rating [Quality and Variety of Food/Beverage Options]','USS experience rating [Crowdedness]','USS experience rating [Value for Money (Entrance Fee, Food, etc)]','USS experience rating [Variety and Quality of Souvenir Shops]','USS experience rating [Theme and Atmosphere]','USS experience rating [Special Events and Performances (E.g. Halloween Horror Night)]','USS experience rating [Presence of Shaded Rest Areas]','USS experience rating [Weather on the Day of Visit]','USS experience rating [Park Layout and Navigation]','USS experience rating [Accessibility (Wheelchair friendly, etc)]','USS experience rating [Parking Convenience and Accessibility]','USS experience rating [Parking Convenience and Accessibility]']
 data['overall_satisfaction'] = data[uss_columns].mean(axis=1)
 
@@ -70,7 +66,7 @@ plt.show()
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
 #MAKE SURE IM USING THE CORRECT DATA
 print("Unique values and counts in 'Tourist/Local':")
@@ -121,7 +117,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 # Define columns for GSS and factors influencing satisfaction
 
 print(data.columns)
@@ -234,7 +230,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import pearsonr
 import statsmodels.api as sm
 from statsmodels.nonparametric.smoothers_lowess import lowess
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 data = data.drop(['Suggestions for improving USS experience', 'Suggestions for improving USS website'], axis=1)
 corr_matrix1 = data.corr()
 
@@ -279,7 +275,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
 # Define original and shortened column names
 purchasing_factors = [
@@ -395,7 +391,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-data = pd.read_excel('/content/drive/MyDrive/DSA3101 Data/Processed Data/Survey_cleaned_balanced.xlsx')
+data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
 
 ticket_purchasing_avenues = [
