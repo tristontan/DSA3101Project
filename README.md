@@ -22,76 +22,86 @@ Each question in this project has its own setup instructions, including specific
 ## Repository Structure
 ```
 📦 
-├─ README.md
-├─ data
-│  ├─ README.md
-│  ├─ USS Guest Experience.pdf
-│  ├─ processed
-│  │  ├─ .gitkeep
-│  │  ├─ Age_mapped.csv
-│  │  ├─ Express_pass_purchase_mapped.csv
-│  │  ├─ Gender_mapped.csv
-│  │  ├─ Max_tolerable_ticket_price_[Non-peak]_mapped.csv
-│  │  ├─ Max_tolerable_ticket_price_[Peak]_mapped.csv
-│  │  ├─ Ride_waiting_tolerance_mapped.csv
-│  │  ├─ Time_enter_mapped.csv
-│  │  ├─ Time_leave_mapped.csv
-│  │  ├─ Tourist_Local_mapped.csv
-│  │  ├─ Visiting_frequency_mapped.csv
-│  │  ├─ Wet_weather_waiting_tolerance_mapped.csv
-│  │  ├─ subgroup_a_question_2_test.xlsx
-│  │  ├─ subgroup_a_question_2_train.xlsx
-│  │  ├─ subgroup_a_question_2_val.xlsx
-│  │  ├─ tripadvisor_sentiment_analysis.csv
-│  │  ├─ uss_30min_interval_avg_waittimes.csv
-│  │  ├─ uss_attractions.csv
-│  │  ├─ uss_attractions_locations.csv
-│  │  ├─ uss_attractions_walktime.csv
-│  │  ├─ uss_international_tourist_arrival.xlsx
-│  │  ├─ uss_processed_wait_times.csv
+README.md
+data
+README.md
+USS Guest Experience.pdf
+processed
+.gitkeep
+Age_mapped.csv
+Express_pass_purchase_mapped.csv
+Gender_mapped.csv
+Max_tolerable_ticket_price_[Non-peak]_mapped.csv
+Max_tolerable_ticket_price_[Peak]_mapped.csv
+Ride_waiting_tolerance_mapped.csv
+Survey_cleaned_balanced.xlsx
+Survey_cleaned_imbalanced.csv
+Survey_open_ended_questions.xlsx
+Time_enter_mapped.csv
+Time_leave_mapped.csv
+Tourist_Local_mapped.csv
+Visiting_frequency_mapped.csv
+Wet_weather_waiting_tolerance_mapped.csv
+subgroup_a_question_2_test.xlsx
+subgroup_a_question_2_train.xlsx
+subgroup_a_question_2_val.xlsx
+tripadvisor_sentiment_analysis.csv
+uss_30min_interval_avg_waittimes.csv
+uss_attractions.csv
+uss_attractions_locations.csv
+uss_attractions_walktime.csv
+uss_international_tourist_arrival.xlsx
+uss_processed_wait_times.csv
 │  │  ├─ uss_sg_holidays.xls
 │  │  ├─ uss_special_events.xlsx
 │  │  ├─ uss_waittime_and_weather.csv
 │  │  └─ v2_cleaned_imbalanced_survey_data.xlsx
 │  └─ raw
-│     ├─ .gitkeep
-│     ├─ raw_survey_data.csv
-│     ├─ sentosa_region_weather_data.csv
+.gitkeep
+raw_survey_data.csv
+sentosa_region_weather_data.csv
 │     ├─ uss_attractions_locations.csv
 │     ├─ uss_ride_details.csv
 │     ├─ uss_tripadvisor_reviews.xlsx
 │     └─ uss_wait_times.csv
 ├─ data_processing_code
-│  ├─ .gitkeep
-│  ├─ dsa3101_data_synthesis_from_original_uss_guest_satisfaction_survey.py
+.gitkeep
+dsa3101_data_synthesis_from_original_uss_guest_satisfaction_survey.py
 │  ├─ final_sentiment_analysis.ipynb
 │  ├─ subgroup_a_question_2_data_cleaning.ipynb
-│  ├─ subgroup_b_question1_data_cleaning.ipynb
-│  └─ update_waittimecode.py
-├─ sql
-│  ├─ uss_wait_times_schema.sql
+subgroup_b_question1_data_cleaning.ipynb
+update_waittimecode.py
+sql
+uss_wait_times_schema.sql
 │  └─ uss_waittime_30min.sql
 ├─ subgroup_A
 │  ├─ compulsory_qn_1_folder
-│  │  ├─ DSA3101_(A)_Q1_.ipynb
-│  │  ├─ DockerFile
-│  │  ├─ README.md
-│  │  ├─ Survey_cleaned_balanced.xlsx
-│  │  ├─ dsa3101_(a)_q1_.py
-│  │  ├─ key_drivers.ipynb
+DSA3101_(A)_Q1_.ipynb
+DockerFile
+README.md
+dsa3101_(a)_q1_.py
+key_drivers.ipynb
 │  │  ├─ key_drivers.py
 │  │  ├─ requirements.txt
 │  │  └─ tourist_locals_analysis.ipynb
 │  ├─ compulsory_qn_2
-│  │  ├─ DSA3101_Project_Question_2_DataSynthesis.ipynb
-│  │  ├─ DSA3101_Project_Question_2_EDA_Original.ipynb
-│  │  ├─ DSA3101_Project_Question_2_EDA_Synthesised.ipynb
-│  │  ├─ DSA3101_Project_Question_2_FeatureEngineering_Modelling.ipynb
+DSA3101_Project_Question_2_DataSynthesis.ipynb
+DSA3101_Project_Question_2_EDA_Original.ipynb
+DSA3101_Project_Question_2_EDA_Synthesised.ipynb
+DSA3101_Project_Question_2_FeatureEngineering_Modelling.ipynb
 │  │  ├─ Dockerfile
 │  │  ├─ README.md
-│  │  └─ requirements.txt
-│  ├─ compulsory_qn_3
-│  │  └─ .gitignore
+requirements.txt
+compulsory_qn_3
+AttractionPopularityonBusyDays.ipynb
+DSA3101 Dashboard.twb
+FinalSentimentAnalysis.ipynb
+SegmentAnalysis.ipynb
+Survey_cleaned_balanced.xlsx
+attractions_distances.csv
+sentiment.csv
+│  │  ├─ updated_wait_times_with_missing_rides.csv
+│  │  └─ waittimes_full.csv.zip
 │  ├─ optional_qn_1
 │  │  ├─ .gitkeep
 │  │  ├─ DSA3101_Data_Cleaning_(A)_Opt_Q1.ipynb
@@ -116,7 +126,7 @@ Each question in this project has its own setup instructions, including specific
    │     ├─ main.py
    │     ├─ model
    │     │  └─ rf_model.pkl
-   │     ├─ requirements.txt
+requirements.txt
    │     └─ static
    │        └─ styles.css
    ├─ question_2
@@ -132,7 +142,7 @@ Each question in this project has its own setup instructions, including specific
    └─ question_3
       ├─ DSA3101_Project_Question B3.ipynb
       ├─ DSA3101_Project_Question B3.py
-      ├─ Dockerfile
+Dockerfile
       ├─ README.md
       ├─ output
       │  ├─ initial_vs_optimized_wait_times_comparison.png
