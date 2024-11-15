@@ -7,10 +7,6 @@ import seaborn as sns
 
 data = pd.read_csv('../../data/processed/Survey_cleaned_balanced.xlsx')
 
-!pip install gspread oauth2client
-from google.colab import auth
-auth.authenticate_user()
-
 print(len(data))
 data.tail()
 
